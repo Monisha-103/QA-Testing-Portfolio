@@ -117,7 +117,4 @@
 | TC_LG_003 | Not Executed | Not Executed |
 | TC_LG_004 | Not Executed | Not Executed |
 
-**Note:**
-- Actual Result should be updated after executing each test case.
-- Status should be marked as Pass, Fail, Blocked, or Not Executed.
-- Use test mobile numbers and test OTPs in the testing environment.
+
